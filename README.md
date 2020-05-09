@@ -6,7 +6,7 @@ __Use Google Colab to run__
 
 IMPORTANT: set your Telegram API token to `TOKEN` variable
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olegkhomenko/pixelate-me-tg/blob/master/pixelate-me.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olegkhomenko/pixelate-me-tg/blob/master/pixelate_me_tg.ipynb)
 
 
 ### Algorithm's result example
