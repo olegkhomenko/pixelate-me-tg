@@ -35,5 +35,5 @@ res = pixelate(img, segmentation_network=segm_net)
 - move from `bot.polling()` to _webhooks_
 - add heuristics for better pixel images
 - replace face detection algorithm w/ instance segmentation <br />
-(face-detection only works if your subject is facing forward)
+(face detection only works if your subject is facing forward)
 - replace white background w/ `bg_color` hyperparameter
