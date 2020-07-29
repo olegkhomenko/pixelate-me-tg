@@ -15,8 +15,7 @@ __Original image__
 ![orig](imgs/half_orig.jpg)
 
 __Result__
-
-![banner](imgs/banner.png)
+![banner](imgs/banner.jpg)
 
 
 ## Tunable options
